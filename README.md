@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Legendary9575
-- 👀 I’m interested in Math, computers, and video games
-- 🌱 I’m currently an Electrical Engineering Major
+- 👀 I’m interested in Math, Computers, and video games
+- 🌱 I’m currently a Computer Science and Math Student
 - 💞️ 
 - 📫 
 
