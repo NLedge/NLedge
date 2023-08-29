@@ -1,4 +1,3 @@
-Howdy, I’m currently a Computer Science and Math Undergrad
+✌️ Howdy, I’m currently a Computer Science and Math Undergrad
 
-
-Pfp made with stable diffusion
+🖻 Pfp made with stable diffusion
