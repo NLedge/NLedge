@@ -1,10 +1,4 @@
-- 👋 Hiya
-- 👀 I’m interested in Math, Computers, and video games
-- 🌱 I’m currently a Computer Science and Math Student
-- 💞️ 
-- 📫 
+Howdy, I’m currently a Computer Science and Math Undergrad
 
-<!---
-`README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+Pfp made with stable diffusion
